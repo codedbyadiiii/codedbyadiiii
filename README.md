@@ -75,7 +75,7 @@ A beginner-friendly web application built with Python, Flask, SQLite, HTML, and 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-codedbyadiii-181717?style=for-the-badge&logo=github)](https://github.com/codedbyadiii) [![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityanalge1234@gmail.com)
+[![Gmail](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=gmail)](mailto:adityanalge1234@gmail.com)
 
 ### ✨ Building projects. Learning consistently. Improving every day. ✨
 
