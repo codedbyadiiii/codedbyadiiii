@@ -2,7 +2,9 @@
 
 # 👋 Hi, I'm Aditya
 
-### Python Developer in Progress · Backend & Web Applications
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Python+Developer+in+Progress;Backend+%26+Web+Applications" alt="Typing animation" />
+</p>
 
 Building small, useful projects and learning one commit at a time.
 
