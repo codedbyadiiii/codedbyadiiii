@@ -63,8 +63,9 @@ A beginner-friendly web application built with Python, Flask, SQLite, HTML, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codedbyadiiii&show_icons=true&hide_border=true&theme=transparent" alt="Aditya's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyadiiii&layout=compact&hide_border=true&theme=transparent" alt="Aditya's most used languages" height="165" />
+<img src="https://img.shields.io/github/commit-activity/y/codedbyadiiii/expense-tracker?style=for-the-badge&label=Expense%20Tracker%20commits&color=39FF14" alt="Expense Tracker commit activity" />
+<img src="https://img.shields.io/github/last-commit/codedbyadiiii/expense-tracker?style=for-the-badge&label=Last%20commit&color=39FF14" alt="Last commit" />
+<img src="https://img.shields.io/github/repo-size/codedbyadiiii/expense-tracker?style=for-the-badge&label=Project%20size&color=39FF14" alt="Project size" />
 
 </div>
 
@@ -74,7 +75,7 @@ A beginner-friendly web application built with Python, Flask, SQLite, HTML, and 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub- codedbyadiiii-181717?style=for-the-badge&logo=github)](https://github.com/codedbyadiiii)
+[![GitHub](https://img.shields.io/badge/GitHub-codedbyadiiii-181717?style=for-the-badge&logo=github)](https://github.com/codedbyadiiii)
 
 ### ✨ Building projects. Learning consistently. Improving every day. ✨
 
