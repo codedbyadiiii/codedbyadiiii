@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Aditya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Python+Developer+in+Progress;Backend+%26+Web+Applications" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer+in+Progress;Backend+%26+Web+Applications" alt="Typing animation" />
 </p>
 
 Building small, useful projects and learning one commit at a time.
@@ -63,9 +63,9 @@ A beginner-friendly web application built with Python, Flask, SQLite, HTML, and 
 
 <div align="center">
 
-<img src="https://img.shields.io/github/commit-activity/y/codedbyadiiii/expense-tracker?style=for-the-badge&label=Expense%20Tracker%20commits&color=39FF14" alt="Expense Tracker commit activity" />
-<img src="https://img.shields.io/github/last-commit/codedbyadiiii/expense-tracker?style=for-the-badge&label=Last%20commit&color=39FF14" alt="Last commit" />
-<img src="https://img.shields.io/github/repo-size/codedbyadiiii/expense-tracker?style=for-the-badge&label=Project%20size&color=39FF14" alt="Project size" />
+<img src="https://img.shields.io/github/commit-activity/y/codedbyadiiii/expense-tracker?style=for-the-badge&label=Expense%20Tracker%20commits&color=38BDF8" alt="Expense Tracker commit activity" />
+<img src="https://img.shields.io/github/last-commit/codedbyadiiii/expense-tracker?style=for-the-badge&label=Last%20commit&color=38BDF8" alt="Last commit" />
+<img src="https://img.shields.io/github/repo-size/codedbyadiiii/expense-tracker?style=for-the-badge&label=Project%20size&color=38BDF8" alt="Project size" />
 
 </div>
 
