@@ -59,18 +59,6 @@ A beginner-friendly web application built with Python, Flask, SQLite, HTML, and 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://img.shields.io/github/commit-activity/y/codedbyadiiii/expense-tracker?style=for-the-badge&label=Expense%20Tracker%20commits&color=38BDF8" alt="Expense Tracker commit activity" />
-<img src="https://img.shields.io/github/last-commit/codedbyadiiii/expense-tracker?style=for-the-badge&label=Last%20commit&color=38BDF8" alt="Last commit" />
-<img src="https://img.shields.io/github/repo-size/codedbyadiiii/expense-tracker?style=for-the-badge&label=Project%20size&color=38BDF8" alt="Project size" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
