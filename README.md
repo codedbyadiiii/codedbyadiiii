@@ -75,7 +75,7 @@ A beginner-friendly web application built with Python, Flask, SQLite, HTML, and 
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/--FFFFFF?style=for-the-badge&logo=gmail)](mailto:adityanalge1234@gmail.com)
+<a href="https://github.com/codedbyadiii" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="36" height="36" alt="GitHub" /></a> &nbsp;&nbsp; <a href="mailto:adityanalge1234@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>
 
 ### ✨ Building projects. Learning consistently. Improving every day. ✨
 
