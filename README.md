@@ -31,22 +31,7 @@ Building small, useful projects and learning one commit at a time.
 
 </div>
 
----
 
-## 🚀 Featured Project
-
-### 💰 Expense Tracker
-
-A beginner-friendly web application built with Python, Flask, SQLite, HTML, and CSS.
-
-- Add expenses with descriptions, amounts, categories, and dates
-- View total spending and recent expenses
-- Delete expenses
-- Store data locally in SQLite
-
-🔗 [View the Expense Tracker repository](https://github.com/codedbyadiiii/expense-tracker)
-
----
 
 ## 📚 Currently Learning
 
