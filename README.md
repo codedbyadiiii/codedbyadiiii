@@ -24,6 +24,7 @@ Building scalable backend architectures and robust web applications one commit a
 ---
 
 ## 🛠️ Tech I Work With
+<div align="center">
 
 ### 🎯 Core Development
 <div align="center">
@@ -31,6 +32,7 @@ Building scalable backend architectures and robust web applications one commit a
 <img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle&perline=5" alt="Python, Java, Spring Boot, Maven, and Gradle" />
 
 </div>
+<div align="center">
 
 ### 🗄️ Databases
 <div align="center">
@@ -38,6 +40,7 @@ Building scalable backend architectures and robust web applications one commit a
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
 
 </div>
+<div align="center">
 
 ### ☁️ DevOps & Tools
 <div align="center">
@@ -48,14 +51,6 @@ Building scalable backend architectures and robust web applications one commit a
 
 ---
 
-## 📚 Technical Focus & Continuous Learning
-
-- 🐍 **Python & Backend Engineering:** Advanced syntax, algorithmic problem solving, clean code architecture, and RESTful API development.
-- 🌐 **Web Architecture:** Flask framework mechanics, dynamic form handling, modular templating, and responsive UI/UX principles.
-- 🗄️ **Data Management:** Relational database modeling, SQLite optimization, and persistent state integration.
-- 🔧 **Engineering Workflows:** Advanced version control with Git, collaborative pull request reviews, containerization, and modern IDE tooling.
-
----
 
 ## 🤝 Connect With Me
 
