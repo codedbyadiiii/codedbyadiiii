@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Aditya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Backend+%26+Web+Applications" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast;Backend+%26+Web+Applications" alt="Typing animation" />
 </p>
 
 Building scalable backend architectures and robust web applications one commit at a time.
