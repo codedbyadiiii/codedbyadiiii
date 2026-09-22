@@ -24,6 +24,7 @@ Building small, useful projects and learning one commit at a time.
 ---
 
 ## 🛠️ Tech I Work With
+<div align="center">
 
 ### 🎯 Core Development
 <div align="center">
@@ -31,6 +32,7 @@ Building small, useful projects and learning one commit at a time.
 <img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle&perline=5" alt="Python, Java, Spring Boot, Maven, and Gradle" />
 
 </div>
+<div align="center">
 
 ### 🗄️ Databases
 <div align="center">
@@ -38,6 +40,7 @@ Building small, useful projects and learning one commit at a time.
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
 
 </div>
+<div align="center">
 
 ### ☁️ DevOps & Tools
 <div align="center">
