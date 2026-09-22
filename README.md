@@ -8,7 +8,7 @@
 
 Building small, useful projects and learning one commit at a time.
 
-[GitHub](https://github.com/codedbyadiiii) · [My Expense Tracker](https://github.com/codedbyadiiii/expense-tracker)
+[GitHub](https://github.com/codedbyadiiii) ·
 
 </div>
 
