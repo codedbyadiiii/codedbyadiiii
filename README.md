@@ -25,19 +25,34 @@ Building small, useful projects and learning one commit at a time.
 
 ## 🛠️ Tech I Work With
 
+### 🎯 Core Development
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,git,github,vscode&perline=8" alt="Python, Flask, SQLite, HTML, CSS, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle&perline=5" alt="Python, Java, Spring Boot, Maven, and Gradle" />
 
 </div>
 
+### 🗄️ Databases
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
+
+</div>
+
+### ☁️ DevOps & Tools
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,vscode,idea&perline=5" alt="Docker, AWS, Git, VS Code, and IntelliJ" />
+
+</div>
+
+---
 
 ## 📚 Currently Learning
 
 | Area | Topics |
 | --- | --- |
-| 🐍 Python | Programming fundamentals and clean code |
+| 🐍 Python | Programming fundamentals, clean code, and backend scripting |
 | 🌐 Web Development | Flask, forms, templates, and responsive design |
 | 🗄️ Databases | SQLite and database-backed applications |
 | 🔧 Developer Tools | Git, GitHub, VS Code, and project workflows |
