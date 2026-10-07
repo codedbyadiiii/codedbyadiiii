@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Open+Source+Enthusiast;Backend+%26+Web+Applications" alt="Typing animation" />
 </p>
 
-Building scalable backend architectures and robust web applications one commit at a time.
+Crafting data-driven backend systems and pushing open-source boundaries—from AI innovation to core observability.
 
 
 </div>
