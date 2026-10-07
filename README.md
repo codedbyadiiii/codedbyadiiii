@@ -52,13 +52,18 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 
 ---
 
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/codedbyadiii" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="36" height="36" alt="GitHub" /></a> &nbsp;&nbsp; <a href="mailto:adityanalge1234@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>
-
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE-URL" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" />
+</a> &nbsp;&nbsp; 
+<a href="mailto:adityanalge1234@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" />
+</a>
+<br/><br/>
 ### ✨ Building software with purpose. Scaling expertise daily. ✨
 
 </div>
+
