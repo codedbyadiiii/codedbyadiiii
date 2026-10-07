@@ -8,7 +8,6 @@
 
 Building scalable backend architectures and robust web applications one commit at a time.
 
-[GitHub](https://github.com/codedbyadiiii) 
 
 </div>
 
