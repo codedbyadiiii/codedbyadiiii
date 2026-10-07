@@ -16,10 +16,12 @@ Building scalable backend architectures and robust web applications one commit a
 
 ## ⚡ About Me
 
-- 🌱 Expanding expertise in **Python ecosystems** and scalable backend engineering.
-- 🧩 Architecting robust web applications utilizing **Flask** and relational databases.
-- 🎨 Engineering clean, accessible, and responsive user interfaces.
-- 🚀 Driving personal portfolio growth through production-grade, practical engineering projects.
+I'm a B.Tech CS student who loves bridging the gap between scalable backends and intelligent algorithms. Whether I'm building agricultural tech platforms like **KrishiMitra**, training neural networks, or contributing to global open-source projects like **OpenTelemetry**, my goal is to engineer clean and impactful solutions.
+
+- 🏗️ **Building:** Robust web applications utilizing Python, Flask, and React 19.
+- 🧠 **Exploring:** Deep Learning, Data Analytics, and Prompt Engineering.
+- 🌐 **Collaborating:** Always open to open-source contributions and hackathons (shoutout to team **CodeCraft**).
+
 
 ---
 
