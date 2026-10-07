@@ -46,11 +46,55 @@ Building scalable backend architectures and robust web applications one commit a
 
 ---
 
-## 📈 GitHub Performance & Stats
+## 🚀 Open Source Contributions (Merged PRs)
+
+| Repository | Pull Request | Status |
+| :--- | :--- | :--- |
+| **[open-telemetry/opentelemetry-python](https://github.com/open-telemetry/opentelemetry-python)** | [#5727 Fix BoundedAttributes to log drop warning only once per record](https://github.com/open-telemetry/opentelemetry-python/pull/5727) | `Merged` 🟣 |
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/search?q=is%3Apr+author%3Acodedbyadiiii+is%3Amerged&type=pullrequests">
+    <img src="https://img.shields.io/badge/View_All_Merged_PRs-238636?style=for-the-badge&logo=github&logoColor=white" alt="View All Merged PRs" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/codedbyadiiii/codedbyadiiii/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/codedbyadiiii/codedbyadiiii/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/codedbyadiiii/codedbyadiiii/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/codedbyadiiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=codedbyadiiii&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=8" alt="Aditya's GitHub Stats" />
+
+<a href="https://github.com/codedbyadiiii" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="36" height="36" alt="GitHub" /></a> &nbsp;&nbsp; 
+<a href="mailto:adityanalge1234@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="36" height="36" alt="Gmail" /></a>
+
+<br/><br/>
+
+### ✨ Building software with purpose. Scaling expertise daily. ✨
+
+</div>
   </a>
   <a href="https://github.com/codedbyadiiii">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codedbyadiiii&theme=tokyonight&border_radius=8" alt="Aditya's GitHub Streak" />
