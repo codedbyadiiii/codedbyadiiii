@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Aditya
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Open+Source+Enthusiast;Backend+%26+Web+Applications" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Open+Source+Enthusiast;Backend+%26+Frontend" alt="Typing animation" />
 </p>
 
 Crafting data-driven backend systems and pushing open-source boundaries—from AI innovation to core observability.
