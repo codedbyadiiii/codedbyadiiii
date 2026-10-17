@@ -28,7 +28,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FA9A&center=true&vCenter=true&width=500&lines=Core+Development" alt="Core Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Core+Development" alt="Core Development" />
 </p>
 <div align="center">
 
@@ -38,7 +38,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FA9A&center=true&vCenter=true&width=400&lines=Databases" alt="Databases" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=Databases" alt="Databases" />
 </p>
 <div align="center">
 
@@ -48,7 +48,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FA9A&center=true&vCenter=true&width=500&lines=DevOps+%26+Tools" alt="DevOps and Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=DevOps+%26+Tools" alt="DevOps and Tools" />
 </p>
 <div align="center">
 
