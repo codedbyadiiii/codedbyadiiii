@@ -28,7 +28,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Core+Development" alt="Core Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Core+Development" alt="Target emoji and Core Development" />
 </p>
 <div align="center">
 
@@ -38,7 +38,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=Databases" alt="Databases" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=%F0%9F%97%84%EF%B8%8F+Databases" alt="Database emoji and Databases" />
 </p>
 <div align="center">
 
@@ -48,7 +48,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=DevOps+%26+Tools" alt="DevOps and Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=%E2%98%81%EF%B8%8F+DevOps+%26+Tools" alt="Cloud emoji and DevOps and Tools" />
 </p>
 <div align="center">
 
