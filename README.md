@@ -27,7 +27,9 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 ## 🛠️ Tech I Work With
 <div align="center">
 
-### 🎯 Core Development
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FA9A&center=true&vCenter=true&width=500&lines=Core+Development" alt="Core Development" />
+</p>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle&perline=5" alt="Python, Java, Spring Boot, Maven, and Gradle" />
@@ -35,7 +37,9 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 </div>
 <div align="center">
 
-### 🗄️ Databases
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FA9A&center=true&vCenter=true&width=400&lines=Databases" alt="Databases" />
+</p>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
@@ -43,7 +47,9 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 </div>
 <div align="center">
 
-### ☁️ DevOps & Tools
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=00FA9A&center=true&vCenter=true&width=500&lines=DevOps+%26+Tools" alt="DevOps and Tools" />
+</p>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,vscode,idea&perline=5" alt="Docker, AWS, Git, VS Code, and IntelliJ" />
@@ -66,4 +72,3 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 ### ✨ Building software with purpose. Scaling expertise daily. ✨
 
 </div>
-
