@@ -27,9 +27,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 ## 🛠️ Tech I Work With
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Core+Development" alt="Target emoji and Core Development" />
-</p>
+### 🎯 Core Development
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,spring,maven,gradle&perline=5" alt="Python, Java, Spring Boot, Maven, and Gradle" />
@@ -37,9 +35,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 </div>
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=%F0%9F%97%84%EF%B8%8F+Databases" alt="Database emoji and Databases" />
-</p>
+### 🗄️ Databases
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&perline=3" alt="PostgreSQL, MongoDB, and Redis" />
@@ -47,9 +43,7 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 </div>
 <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=%E2%98%81%EF%B8%8F+DevOps+%26+Tools" alt="Cloud emoji and DevOps and Tools" />
-</p>
+### ☁️ DevOps & Tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=docker,aws,git,vscode,idea&perline=5" alt="Docker, AWS, Git, VS Code, and IntelliJ" />
@@ -58,9 +52,11 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=1000&color=000000&center=true&vCenter=true&width=400&lines=%F0%9F%A4%9D+Connect+With+Me" alt="Connect With Me typing animation" />
+</p>
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE-URL" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" />
@@ -68,7 +64,10 @@ I'm a B.Tech CS student who loves bridging the gap between scalable backends and
 <a href="mailto:adityanalge1234@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Gmail" />
 </a>
+
 <br/><br/>
+
 ### ✨ Building software with purpose. Scaling expertise daily. ✨
 
 </div>
+
